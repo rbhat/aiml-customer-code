@@ -43,10 +43,11 @@ This project requires the following Python libraries:
 - `seaborn` (for enhanced visualizations)
 - `pandas` (for data manipulation)
 - `numpy` (for numerical operations)
+- `termcolor` (for text coloring)
 
 Install them using:
 ```bash
-pip install matplotlib seaborn pandas numpy
+pip install matplotlib seaborn pandas numpy termcolor
 ```
 
 
