@@ -82,6 +82,7 @@ matplotlib
 seaborn
 pandas
 numpy
+termcolor
 
 ## License
 This project is unlicensed (public domain) unless otherwise specified. Feel free to use and modify it as needed.
